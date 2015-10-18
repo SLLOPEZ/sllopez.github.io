@@ -7,7 +7,7 @@
        margin: 0 auto;
        padding-top: 5px;
        height: 100%;
-       background-color: #D9B367
+       background-color: #A2B8D9
     }
 
     header {
@@ -24,7 +24,7 @@
         float: left;
     }
     nav ul {
-        background-color: #A2B8D9;
+        background-color: #dddddd;
         height: 45px;
         width: 800px;
         padding: 0px;
@@ -32,9 +32,11 @@
         float: left;
         border-bottom: 1px solid #cccccc;
         list-style-type: none;
+        background-color: #D9B367
     }
     nav li {
         float: left;
+        background-color: #D9B367
     }
     nav li a {
         display: block;
